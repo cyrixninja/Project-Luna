@@ -1,0 +1,5 @@
+.env
+.venv
+.agents
+__pycache__
+robot_app/___pycache__

@@ -1,0 +1,2 @@
+"""Robot assistant application package."""
+

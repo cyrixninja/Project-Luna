@@ -1,0 +1,7 @@
+google-genai
+pygame
+sounddevice
+python-dotenv
+websockets 
+numpy
+scipy
